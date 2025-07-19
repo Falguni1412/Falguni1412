@@ -9,7 +9,7 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering at Sin
   Diploma in Computer Engineering (2020–2023)
 - 💡 **Aspiring Developer:** Experience as a Python Developer Intern & Full Stack Enthusiast
 - 🏆 **Academic Highlights:**  
-  &nbsp;&nbsp;• GPA: 8.63/10 (B.E.)  
+  &nbsp;&nbsp;• GPA: 8.78/10 (B.E.)  
   &nbsp;&nbsp;• 82.57% (Diploma)  
   &nbsp;&nbsp;• Head of Co-Curricular Activities, Event Organizer
 
